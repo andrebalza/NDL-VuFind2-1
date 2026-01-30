@@ -1243,7 +1243,6 @@ finna.layout = (function finnaLayout() {
       initHelpTabs();
       initPrintTriggers();
       initSelectAllButtonListeners();
-      initFocusAfterReload();
     },
     showPostLoginLightbox: showPostLoginLightbox
   };
